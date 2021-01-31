@@ -13,7 +13,7 @@ export default function Contact(){
             <h2> {contact.name} </h2>
             <p> {contact.mail} </p>
             <p> {contact.phone} </p> 
-            <a href="https://github.com/normanclaro/CV-repo" target= "_blank" >Repository</a> 
+            <a href="https://github.com/normanclaro/CV-repo" target= "_blank" className="linkRep" >Repository</a> 
         </div>
     )
 };
