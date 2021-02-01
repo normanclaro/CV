@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CV/static/css/main.8e1a1885.chunk.css",
+    "main.css": "/CV/static/css/main.84ca494d.chunk.css",
     "main.js": "/CV/static/js/main.726e2a96.chunk.js",
     "main.js.map": "/CV/static/js/main.726e2a96.chunk.js.map",
     "runtime-main.js": "/CV/static/js/runtime-main.29c8d31c.js",
@@ -12,14 +12,15 @@
     "static/js/3.a22f3a34.chunk.js.map": "/CV/static/js/3.a22f3a34.chunk.js.map",
     "index.html": "/CV/index.html",
     "static/css/2.150d169a.chunk.css.map": "/CV/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.8e1a1885.chunk.css.map": "/CV/static/css/main.8e1a1885.chunk.css.map",
-    "static/js/2.c2ec4db2.chunk.js.LICENSE.txt": "/CV/static/js/2.c2ec4db2.chunk.js.LICENSE.txt"
+    "static/css/main.84ca494d.chunk.css.map": "/CV/static/css/main.84ca494d.chunk.css.map",
+    "static/js/2.c2ec4db2.chunk.js.LICENSE.txt": "/CV/static/js/2.c2ec4db2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/CV/static/media/UbuntuMono-Regular.f17c0593.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.29c8d31c.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.c2ec4db2.chunk.js",
-    "static/css/main.8e1a1885.chunk.css",
+    "static/css/main.84ca494d.chunk.css",
     "static/js/main.726e2a96.chunk.js"
   ]
 }
