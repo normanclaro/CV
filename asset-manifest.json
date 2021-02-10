@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0280dae.chunk.css",
-    "main.js": "/static/js/main.8ef873eb.chunk.js",
-    "main.js.map": "/static/js/main.8ef873eb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.49b1f2b3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.49b1f2b3.js.map",
-    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
-    "static/js/2.c2ec4db2.chunk.js": "/static/js/2.c2ec4db2.chunk.js",
-    "static/js/2.c2ec4db2.chunk.js.map": "/static/js/2.c2ec4db2.chunk.js.map",
-    "static/js/3.a22f3a34.chunk.js": "/static/js/3.a22f3a34.chunk.js",
-    "static/js/3.a22f3a34.chunk.js.map": "/static/js/3.a22f3a34.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.d0280dae.chunk.css.map": "/static/css/main.d0280dae.chunk.css.map",
-    "static/js/2.c2ec4db2.chunk.js.LICENSE.txt": "/static/js/2.c2ec4db2.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/UbuntuMono-Regular.f17c0593.ttf"
+    "main.css": "/CV/static/css/main.84ca494d.chunk.css",
+    "main.js": "/CV/static/js/main.8ef873eb.chunk.js",
+    "main.js.map": "/CV/static/js/main.8ef873eb.chunk.js.map",
+    "runtime-main.js": "/CV/static/js/runtime-main.29c8d31c.js",
+    "runtime-main.js.map": "/CV/static/js/runtime-main.29c8d31c.js.map",
+    "static/css/2.150d169a.chunk.css": "/CV/static/css/2.150d169a.chunk.css",
+    "static/js/2.c2ec4db2.chunk.js": "/CV/static/js/2.c2ec4db2.chunk.js",
+    "static/js/2.c2ec4db2.chunk.js.map": "/CV/static/js/2.c2ec4db2.chunk.js.map",
+    "static/js/3.a22f3a34.chunk.js": "/CV/static/js/3.a22f3a34.chunk.js",
+    "static/js/3.a22f3a34.chunk.js.map": "/CV/static/js/3.a22f3a34.chunk.js.map",
+    "index.html": "/CV/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/CV/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.84ca494d.chunk.css.map": "/CV/static/css/main.84ca494d.chunk.css.map",
+    "static/js/2.c2ec4db2.chunk.js.LICENSE.txt": "/CV/static/js/2.c2ec4db2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/CV/static/media/UbuntuMono-Regular.f17c0593.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.49b1f2b3.js",
+    "static/js/runtime-main.29c8d31c.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.c2ec4db2.chunk.js",
-    "static/css/main.d0280dae.chunk.css",
+    "static/css/main.84ca494d.chunk.css",
     "static/js/main.8ef873eb.chunk.js"
   ]
 }
